@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031713260587069465}
   - component: {fileID: 1031713260587069464}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031713260751373886}
   - component: {fileID: 1031713260751373873}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 5269668097828743961}
   - component: {fileID: 5269668097828743967}
   - component: {fileID: 5269668097828743960}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Garde
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -283,7 +283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031713261188019139}
   - component: {fileID: 1031713261188019138}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -367,7 +367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031713261820448950}
   - component: {fileID: 1031713261820448969}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}

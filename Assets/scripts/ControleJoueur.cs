@@ -38,4 +38,12 @@ public class ControleJoueur : MonoBehaviour
     {
         rig.velocity = direction * vitesse;
     }
+
+    private void OnCollisionEnter2D(Collision2D collision){
+        if (LayerMask.LayerToName(collision.gameObject.layer) == "Enemy")
+        {
+            EventManager.TriggerEvent("Mort", 0);
+        }
+    }
+
 }
