@@ -6,7 +6,7 @@ public class Lanceur : MonoBehaviour
 {
     private Rigidbody2D rig;
     private Vector2 vit;
-    // Start is called before the first frame update
+
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();

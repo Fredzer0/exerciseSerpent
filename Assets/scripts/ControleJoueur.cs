@@ -10,7 +10,6 @@ public class ControleJoueur : MonoBehaviour
     public Vector2 derniereDirection = Vector2.right;
     public Transform trPierre;
     private Rigidbody2D rig;
-    // Start is called before the first frame update
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();
